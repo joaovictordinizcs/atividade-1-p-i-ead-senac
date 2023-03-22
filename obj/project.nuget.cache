@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hl8xcq96p2epcPwrt2YxmxItBc5O3Roji8gbqcjvh7ERsAbVP60FKwwNPEbDKUa28oclI9P8pd4JG7kqMNmRog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joaoz\\OneDrive\\Área de Trabalho\\Atividade04\\Atividade03.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joaoz\\.nuget\\packages\\mysqlconnector\\0.56.0\\mysqlconnector.0.56.0.nupkg.sha512"
+  ],
+  "logs": []
+}

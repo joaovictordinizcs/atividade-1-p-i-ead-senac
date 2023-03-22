@@ -1,0 +1,117 @@
+C:\Users\lucas\Desktop\Atividade03\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas\Desktop\Atividade03\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas\Desktop\Atividade03\bin\Debug\net6.0\Atividade03.staticwebassets.runtime.json
+C:\Users\lucas\Desktop\Atividade03\bin\Debug\net6.0\Atividade03.exe
+C:\Users\lucas\Desktop\Atividade03\bin\Debug\net6.0\Atividade03.deps.json
+C:\Users\lucas\Desktop\Atividade03\bin\Debug\net6.0\Atividade03.runtimeconfig.json
+C:\Users\lucas\Desktop\Atividade03\bin\Debug\net6.0\Atividade03.dll
+C:\Users\lucas\Desktop\Atividade03\bin\Debug\net6.0\Atividade03.pdb
+C:\Users\lucas\Desktop\Atividade03\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.AssemblyInfo.cs
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.RazorAssemblyInfo.cache
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.RazorAssemblyInfo.cs
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\scopedcss\bundle\Atividade03.styles.css
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\scopedcss\projectbundle\Atividade03.bundle.scp.css
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.csproj.CopyComplete
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.dll
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\refint\Atividade03.dll
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.pdb
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\Atividade03.genruntimeconfig.cache
+C:\Users\lucas\Desktop\Atividade03\obj\Debug\net6.0\ref\Atividade03.dll
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\appsettings.json
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.staticwebassets.runtime.json
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.exe
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.deps.json
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.runtimeconfig.json
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.dll
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\ref\Atividade03.dll
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.pdb
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.csproj.AssemblyReference.cache
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.AssemblyInfoInputs.cache
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.AssemblyInfo.cs
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.csproj.CoreCompileInputs.cache
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.RazorAssemblyInfo.cache
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.RazorAssemblyInfo.cs
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\scopedcss\bundle\Atividade03.styles.css
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\scopedcss\projectbundle\Atividade03.bundle.scp.css
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.csproj.CopyComplete
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.dll
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\ref\Atividade03.dll
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.pdb
+C:\Users\55679\OneDrive\Área de Trabalho\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.genruntimeconfig.cache
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\bin\Debug\net6.0\appsettings.json
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.staticwebassets.runtime.json
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.exe
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.deps.json
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.runtimeconfig.json
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.dll
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\bin\Debug\net6.0\Atividade03.pdb
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.csproj.AssemblyReference.cache
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.AssemblyInfoInputs.cache
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.AssemblyInfo.cs
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.RazorAssemblyInfo.cache
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.RazorAssemblyInfo.cs
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\scopedcss\bundle\Atividade03.styles.css
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\scopedcss\projectbundle\Atividade03.bundle.scp.css
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.csproj.CopyComplete
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.dll
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\refint\Atividade03.dll
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.pdb
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\Atividade03.genruntimeconfig.cache
+C:\Users\lucas\Downloads\Atividade04 (2)\Atividade04 (2)\Atividade04\obj\Debug\net6.0\ref\Atividade03.dll
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\bin\Debug\net6.0\appsettings.json
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\bin\Debug\net6.0\Atividade03.staticwebassets.runtime.json
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\bin\Debug\net6.0\Atividade03.exe
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\bin\Debug\net6.0\Atividade03.deps.json
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\bin\Debug\net6.0\Atividade03.runtimeconfig.json
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\bin\Debug\net6.0\Atividade03.dll
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\bin\Debug\net6.0\Atividade03.pdb
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.csproj.AssemblyReference.cache
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.AssemblyInfoInputs.cache
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.AssemblyInfo.cs
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.csproj.CoreCompileInputs.cache
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.RazorAssemblyInfo.cache
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.RazorAssemblyInfo.cs
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\staticwebassets\msbuild.Atividade03.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\staticwebassets\msbuild.build.Atividade03.props
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Atividade03.props
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Atividade03.props
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\scopedcss\bundle\Atividade03.styles.css
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\scopedcss\projectbundle\Atividade03.bundle.scp.css
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.csproj.CopyComplete
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.dll
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\refint\Atividade03.dll
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.pdb
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\Atividade03.genruntimeconfig.cache
+C:\Users\joaoz\OneDrive\Área de Trabalho\Atividade04\obj\Debug\net6.0\ref\Atividade03.dll
